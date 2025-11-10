@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "backend for the aws project",
+  "homepage": "https://github.com/LawntuYes/HomeLessLessAWS#readme",
+  "bugs": {
+    "url": "https://github.com/LawntuYes/HomeLessLessAWS/issues"
+  },
+  "scripts": {
+    "start": "node --env-file=.env --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LawntuYes/HomeLessLessAWS.git"
+  },
+  "license": "ISC",
+  "author": "Misha",
+  "type": "nodejs",
+  "main": "index.js",
+}
